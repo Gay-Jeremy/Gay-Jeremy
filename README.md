@@ -1,12 +1,9 @@
 #  Bonjour, je suis Concepteur Développeur d’Applications
 
- Ancien professionnel de la **gestion de stock**, je me suis reconverti dans le  
-**développement d’applications**, un domaine qui correspond pleinement à mon appétence
-pour la logique, la résolution de problèmes et la création de solutions concrètes.
+ Ancien professionnel de la **gestion de stock**, je me suis reconverti dans le **développement d’applications**, un domaine qui correspond pleinement à mon appétence pour la logique, la résolution de problèmes et la création de solutions concrètes.
 
- Cette transition est née d’un intérêt fort pour le **développement logiciel**,
-que j’ai transformé en projet professionnel structuré à travers une formation de **Concepteur Développeur d’Applications**.
-
+ Cette transition est née d’un intérêt fort pour le **développement logiciel**,que j’ai transformé en projet professionnel structuré à travers une formation de **Concepteur Développeur d’Applications**.
+ 
 ---
 
 ##  Mon parcours
