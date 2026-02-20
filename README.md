@@ -10,9 +10,8 @@
 
 -  **Gestion de stock**  
   → Organisation, rigueur, optimisation des flux et gestion des priorités  
--  **Reconversion professionnelle en développement**  
+-  **Reconversion professionnelle en Concepteur Développeur d’Applications**  
   → Acquisition de compétences techniques, méthodes agiles et bonnes pratiques  
--  **Concepteur Développeur d’Applications**  
   → Conception, développement, tests et maintenance d’applications
 
 Ce parcours hybride me permet aujourd’hui d’allier **vision métier** et **expertise technique**.
