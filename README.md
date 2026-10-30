@@ -1,56 +1,54 @@
-#  Bonjour, je suis Concepteur Développeur d’Applications
+### Bonjour, je suis Jérémy Gay 👋
 
- Ancien professionnel de la **gestion de stock**, je me suis reconverti dans le **développement d’applications**, un domaine qui correspond pleinement à mon appétence pour la logique, la résolution de problèmes et la création de solutions concrètes.
+Développeur **Java / Angular**, diplômé **Concepteur Développeur d'Applications** (titre RNCP niveau 6).
+Je me suis reconverti dans le développement après plus de 11 ans en logistique.
 
- Cette transition est née d’un intérêt fort pour le **développement logiciel**,que j’ai transformé en projet professionnel structuré à travers une formation de **Concepteur Développeur d’Applications**.
- 
----
-
-##  Mon parcours
-
--  **Gestion de stock**  
-  → Organisation, rigueur, optimisation des flux et gestion des priorités  
--  **Reconversion professionnelle en Concepteur Développeur d’Applications**  
-  → Acquisition de compétences techniques, méthodes agiles et bonnes pratiques  
-  → Conception, développement, tests et maintenance d’applications
-
-Ce parcours hybride me permet aujourd’hui d’allier **vision métier** et **expertise technique**.
+📍 Hayange (Moselle), proche du Luxembourg · 🚗 véhiculé · ✅ disponible immédiatement
 
 ---
 
-##  Compétences techniques
+#### 🔧 Projet phare : LocMns
 
-- **Développement applicatif** : Java, JavaScript, Python  
-- **Conception logicielle** : UML, MVC, architecture applicative  
-- **Back-end** : API REST, bases de données relationnelles  
-- **Outils** : Git, GitHub, SQL, tests unitaires  
+Application de gestion du prêt de matériel de Metz Numeric School, de la conception au déploiement.
 
----
+- **API REST** : [LocMNS_BackEnd](https://github.com/Gay-Jeremy/LocMNS_BackEnd) - Java 25, Spring Boot 4, Spring Security + JWT, PostgreSQL
+- **Interface web** : [LocMNS_FrontEnd](https://github.com/Gay-Jeremy/LocMNS_FrontEnd) - Angular 21, Signals, Angular Material
 
-##  Projets
-
-Ce GitHub regroupe mes projets de formation et personnels, illustrant :
-- la **conception d’applications complètes**
-- la **mise en pratique des bonnes pratiques de développement**
-- ma **progression continue** dans le métier de développeur
+Ce que j'y ai mis en pratique :
+- un contrôle d'accès par rôle et par propriétaire, prouvé par des tests (193 tests côté API) ;
+- une CI GitHub Actions qui teste chaque pull request, avec les tests d'intégration sur une base PostgreSQL ;
+- un audit automatique des dépendances (OSV-Scanner, npm audit) et des mises à jour par Dependabot ;
+- un flux Git par branches et pull requests, avec une branche `main` protégée.
 
 ---
 
-##  Objectif
+#### 🧰 Compétences
 
-Continuer à monter en compétences, contribuer à des projets concrets et évoluer
-en tant que **Concepteur Développeur d’Applications**, en apportant une approche
-structurée issue de mon expérience professionnelle précédente.
-
-N’hésitez pas à me contacter ou à explorer mes projets !
-
-
----
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gj-dev/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeremy.gay.dev@example.com)
+| Domaine | Outils |
+|---|---|
+| Backend | Java, Spring Boot, Spring Security, JPA / Hibernate, API REST, JWT |
+| Frontend | Angular, TypeScript, RxJS, Angular Material |
+| Données | PostgreSQL, SQL |
+| Tests | JUnit 5, Mockito, Vitest |
+| DevOps | Git, GitHub Actions, Docker, Linux (bases) |
+| Autres langages | Python, Flask · VBA (Excel) |
+| Conception | UML (notions) |
 
 ---
 
+#### 📦 Avant le développement
+
+- **Coordinateur Informatique** (La Provençale, 8 ans au total) : j'ai participé pendant environ 4 ans
+  à la mise en place d'un logiciel de gestion d'entrepôt (WMS) : tests, identification des anomalies,
+  accompagnement des équipes dans l'utilisation de l'outil.
+- **Centrale d'achat** (Top Animal Distribution) : j'ai conçu des outils Excel / VBA pour les achats,
+  toujours utilisés aujourd'hui.
+
+Cette expérience m'a appris à comprendre le besoin des utilisateurs avant d'écrire du code.
+
+---
+
+#### 📫 Me contacter
+
+- LinkedIn : www.linkedin.com/in/gj-dev
+- E-mail : jeremy.gay.dev@gmail.com
